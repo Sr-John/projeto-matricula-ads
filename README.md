@@ -26,13 +26,14 @@ Este é um projeto **Full Stack** desenvolvido como parte do Trabalho de Discipl
    git clone [https://github.com/Sr-John/projeto-matricula-ads.git](https://github.com/Sr-John/projeto-matricula-ads.git)
 
 
-   cd backend
-npm install
-npm run dev
 
-cd frontend
-npm install
-npm run dev
+   cd backend
+   npm install
+   npm run dev
+
+   cd frontend
+   npm install
+   npm run dev
 
 
 
